@@ -1,0 +1,11 @@
+package test;
+
+public class Hello {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hello, world !!");	//window->preference->general->workspace
+															//UTF-8 Encode 한글 깨짐 문제 처리
+	}
+
+}
